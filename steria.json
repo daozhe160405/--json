@@ -33,8 +33,8 @@
             "textInputSelectionColor": "#002fa7"
         },
         "colors": {
-            "text": "#4f94cd",
-            "primary": "#4f94cd",
+            "text": "#3c97e1",
+            "primary": "#3c97e1",
             "onPrimary": "#add8e6",
             "primaryContainer": "rgb(73, 73, 0)",
             "onPrimaryContainer": "rgb(234, 234, 0)",
@@ -53,7 +53,7 @@
             "background": "rgba(0,0,0, 0.4)",
             "onBackground": "rgb(230, 226, 217)",
             "surface": "rgb(28, 28, 23)",
-            "onSurface": "#4f94cd",
+            "onSurface": "#3c97e1",
             "surfaceVariant": "rgb(10, 10, 10)",
             "onSurfaceVariant": "#87cefa",
             "outline": "rgb(147, 145, 130)",
