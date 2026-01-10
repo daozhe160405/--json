@@ -1,84 +1,82 @@
-[ {
-    "metaData": {
-      "themeName": "水牛播放器",
-      "themeDesc": "关注涟洢Lianyi哞，关注水牛谢谢哞 直播间32231958 全网黑听最爽直播间！",
-      "themeAuthor": "龙角散批发商 DAO_z",
-      "themeIcon": "https://i2.hdslb.com/bfs/face/ea0088f8223b27e93aafc4d2e35a95a1b6ff8b10.jpg",
-      "darkTheme": true
-    },
-    "gifs": [
-      "https://raw.githubusercontent.com/daozhe160405/--json/refs/heads/main/027a0b295d9f24a5872c67e598ca266b.png",
-"https://raw.githubusercontent.com/daozhe160405/--json/refs/heads/main/043fb32f293721d004d06a8d98b629d7.png",
-"https://raw.githubusercontent.com/daozhe160405/--json/refs/heads/main/14E16DEC6301939AA04C8B27FE0EB85E.gif",
-"https://raw.githubusercontent.com/daozhe160405/--json/refs/heads/main/16f2fb180bc5d98b86adf1245334ea48.png",
-"https://raw.githubusercontent.com/daozhe160405/--json/refs/heads/main/19903eb9992b2bde9cc26e5b575a91f8.png",
-"https://raw.githubusercontent.com/daozhe160405/--json/refs/heads/main/31.png"
-
-    ],
-    "backgroundImages": [
-      "https://raw.githubusercontent.com/daozhe160405/--json/refs/heads/main/%E6%B5%8B%E8%AF%95%E7%AB%96%E5%B1%8F%E5%B0%81%E9%9D%A2.jpg"
-    ],
-    "backgroundImagesLandscape": [
-     
-     "https://raw.githubusercontent.com/daozhe160405/--json/refs/heads/main/%E6%A8%AA%E5%B1%8F1.jpg",
-"https://raw.githubusercontent.com/daozhe160405/--json/refs/heads/main/%E6%A8%AA%E5%B1%8F2.png"   
- ],
-    "customColors": {
-      "maskedBackgroundColor": "rgba(0, 0, 0, 0.30)",
-      "playlistDrawerBackgroundColor": "rgba(255, 0, 0, 0.35)",
-      "playlistDrawerBackgroundColorTransparent": "rgba(255, 0, 0, 0.35)",
-      "progressThumbTintColor": "#1e90ffe5",
-      "progressMinimumTrackTintColor": "#1e90ffe5",
-      "progressMaximumTrackTintColor": "#FFFFFF",
-      "btnBackgroundColor": "rgb(30,50,80)",
-      "textInputSelectionColor": "#002fa7"
-    },
-   "colors": {
-        "text": "#00BFFF",
-        "primary": "#00BFFF",
-        "onPrimary": "#add8e6",
-        "primaryContainer": "rgb(73, 73, 0)",
-        "onPrimaryContainer": "rgb(234, 234, 0)",
-        "secondary": "#4f94cd",
-        "onSecondary": "rgb(50, 50, 24)",
-        "secondaryContainer": "rgb(73, 72, 45)",
-        "onSecondaryContainer": "rgb(231, 228, 191)",
-        "tertiary": "rgb(164, 208, 189)",
-        "onTertiary": "rgb(11, 55, 42)",
-        "tertiaryContainer": "rgb(37, 78, 64)",
-        "onTertiaryContainer": "rgb(191, 236, 216)",
-        "error": "rgb(255, 180, 171)",
-        "onError": "rgb(105, 0, 5)",
-        "errorContainer": "rgb(147, 0, 10)",
-        "onErrorContainer": "rgb(255, 180, 171)",
-        "background": "rgba(0,0,0, 0.4)",
-        "onBackground": "rgb(230, 226, 217)",
-        "surface": "rgb(28, 28, 23)",
-        "onSurface": "#00BFFF",
-        "surfaceVariant": "rgb(10, 10, 10)",
-        "onSurfaceVariant": "#87cefa",
-        "outline": "rgb(147, 145, 130)",
-        "outlineVariant": "rgb(72, 71, 58)",
-        "shadow": "rgb(0, 0, 0)",
-        "scrim": "rgb(0, 0, 0)",
-        "inverseSurface": "rgb(230, 226, 217)",
-        "inverseOnSurface": "rgb(49, 49, 43)",
-        "inversePrimary": "rgb(98, 98, 0)",
-        "elevation": {
-          "level0": "transparent",
-          "level1": "rgb(53, 56, 57)",
-          "level2": "rgb(10, 10, 10)",
-          "level3": "rgb(10, 10, 10)",
-          "level4": "rgb(49, 49, 20)",
-          "level5": "rgb(53, 53, 20)"
+[
+    {
+        "metaData": {
+            "themeName": "水牛播放器",
+            "themeDesc": "关注涟洢Lianyi哞，关注水牛谢谢哞 直播间32231958 全网黑听最爽直播间！",
+            "themeAuthor": "龙角散批发商 DAO_z",
+            "themeIcon": "https://i2.hdslb.com/bfs/face/ea0088f8223b27e93aafc4d2e35a95a1b6ff8b10.jpg",
+            "darkTheme": true
         },
-        "surfaceDisabled": "rgba(230, 226, 217, 0.12)",
-        "onSurfaceDisabled": "rgba(230, 226, 217, 0.38)",
-        "backdrop": "rgba(49, 49, 37, 0.4)"
-      },
-      "thumbupSVGA": "https://i0.hdslb.com/bfs/garb/390a6b76b918456d64c5629c58a251acc2e8c122.bin",
-      "thumbupZIndex": "2",
-      "loadingIcon": "https://i0.hdslb.com/bfs/baselabs/op/99cd9fc699e84cf4ef59c22ab57ab798455be7c74e0de50c70f8df1125f225db.webp"
-    
-  }
+        "gifs": [
+            "https://raw.githubusercontent.com/daozhe160405/--json/refs/heads/main/027a0b295d9f24a5872c67e598ca266b.png",
+            "https://raw.githubusercontent.com/daozhe160405/--json/refs/heads/main/043fb32f293721d004d06a8d98b629d7.png",
+            "https://raw.githubusercontent.com/daozhe160405/--json/refs/heads/main/14E16DEC6301939AA04C8B27FE0EB85E.gif",
+            "https://raw.githubusercontent.com/daozhe160405/--json/refs/heads/main/16f2fb180bc5d98b86adf1245334ea48.png",
+            "https://raw.githubusercontent.com/daozhe160405/--json/refs/heads/main/19903eb9992b2bde9cc26e5b575a91f8.png",
+            "https://raw.githubusercontent.com/daozhe160405/--json/refs/heads/main/31.png"
+        ],
+        "backgroundImages": [
+            "https://raw.githubusercontent.com/daozhe160405/--json/refs/heads/main/%E6%B5%8B%E8%AF%95%E7%AB%96%E5%B1%8F%E5%B0%81%E9%9D%A2.jpg"
+        ],
+        "backgroundImagesLandscape": [
+            "https://raw.githubusercontent.com/daozhe160405/--json/refs/heads/main/%E6%A8%AA%E5%B1%8F1.jpg",
+            "https://raw.githubusercontent.com/daozhe160405/--json/refs/heads/main/%E6%A8%AA%E5%B1%8F2.png"
+        ],
+        "customColors": {
+            "maskedBackgroundColor": "rgba(0, 0, 0, 0.30)",
+            "playlistDrawerBackgroundColor": "rgba(255, 0, 0, 0.35)",
+            "playlistDrawerBackgroundColorTransparent": "rgba(255, 0, 0, 0.35)",
+            "progressThumbTintColor": "#1e90ffe5",
+            "progressMinimumTrackTintColor": "#1e90ffe5",
+            "progressMaximumTrackTintColor": "#FFFFFF",
+            "btnBackgroundColor": "rgb(30,50,80)",
+            "textInputSelectionColor": "#002fa7"
+        },
+        "colors": {
+            "text": "#4f94cd",
+            "primary": "#4f94cd",
+            "onPrimary": "#add8e6",
+            "primaryContainer": "rgb(73, 73, 0)",
+            "onPrimaryContainer": "rgb(234, 234, 0)",
+            "secondary": "#87ceeb",
+            "onSecondary": "rgb(50, 50, 24)",
+            "secondaryContainer": "rgb(73, 72, 45)",
+            "onSecondaryContainer": "rgb(231, 228, 191)",
+            "tertiary": "rgb(164, 208, 189)",
+            "onTertiary": "rgb(11, 55, 42)",
+            "tertiaryContainer": "rgb(37, 78, 64)",
+            "onTertiaryContainer": "rgb(191, 236, 216)",
+            "error": "rgb(255, 180, 171)",
+            "onError": "rgb(105, 0, 5)",
+            "errorContainer": "rgb(147, 0, 10)",
+            "onErrorContainer": "rgb(255, 180, 171)",
+            "background": "rgba(0,0,0, 0.4)",
+            "onBackground": "rgb(230, 226, 217)",
+            "surface": "rgb(28, 28, 23)",
+            "onSurface": "#4f94cd",
+            "surfaceVariant": "rgb(10, 10, 10)",
+            "onSurfaceVariant": "#87cefa",
+            "outline": "rgb(147, 145, 130)",
+            "outlineVariant": "rgb(72, 71, 58)",
+            "shadow": "rgb(0, 0, 0)",
+            "scrim": "rgb(0, 0, 0)",
+            "inverseSurface": "rgb(230, 226, 217)",
+            "inverseOnSurface": "rgb(49, 49, 43)",
+            "inversePrimary": "rgb(98, 98, 0)",
+            "elevation": {
+                "level0": "transparent",
+                "level1": "rgb(53, 56, 57)",
+                "level2": "rgb(10, 10, 10)",
+                "level3": "rgb(10, 10, 10)",
+                "level4": "rgb(49, 49, 20)",
+                "level5": "rgb(53, 53, 20)"
+            },
+            "surfaceDisabled": "rgba(230, 226, 217, 0.12)",
+            "onSurfaceDisabled": "rgba(230, 226, 217, 0.38)",
+            "backdrop": "rgba(49, 49, 37, 0.4)"
+        },
+        "thumbupSVGA": "https://i0.hdslb.com/bfs/garb/390a6b76b918456d64c5629c58a251acc2e8c122.bin",
+        "thumbupZIndex": "2",
+        "loadingIcon": "https://i0.hdslb.com/bfs/baselabs/op/99cd9fc699e84cf4ef59c22ab57ab798455be7c74e0de50c70f8df1125f225db.webp"
+    }
 ]
